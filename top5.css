@@ -1,0 +1,48 @@
+body {
+    background-color: #282828;
+    color: white;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+ul {
+    list-style-type: square;
+}
+    
+li {
+    font-family: "Lucida Console";
+}
+
+img {
+    padding: 5px;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.artist {
+    border: 1px solid red;
+}
+
+.spotlight {
+    padding: 10px;
+    border: 3px dotted yellow;
+    width: 300px;
+    text-align: center;
+}
